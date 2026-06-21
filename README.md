@@ -21,7 +21,7 @@ This project develops a predictive model that estimates the Probability of Defau
 * IBM SPSS
 * Logistic Regression
 * Excel
-* Jupyter Notebook
+  
 
 ---
 
