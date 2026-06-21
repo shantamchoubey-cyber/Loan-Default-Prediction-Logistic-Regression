@@ -1,5 +1,5 @@
 
-# Jupyter Notebooks
+# Excel Notebook
 
 This folder contains the notebook used for:
 
