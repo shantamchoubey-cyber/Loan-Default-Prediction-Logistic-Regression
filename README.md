@@ -18,10 +18,7 @@ This project develops a predictive model that estimates the Probability of Defau
 
 ## Tools & Technologies
 
-* Python
-* Pandas
-* NumPy
-* Scikit-Learn
+* IBM SPSS
 * Logistic Regression
 * Excel
 * Jupyter Notebook
